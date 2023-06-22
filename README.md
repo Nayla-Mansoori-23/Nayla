@@ -13,9 +13,13 @@
 </div>
 
 <h1>
-  Hello !!
+  Hello!
   <img src="https://media.giphy.com/media/CoLgHLFwzPMHgWcdMf/giphy.gif" width="50px"/>
 </h1>
+
+<h2>
+  I'm Nayla Mansoori, An ambitious learner.
+</h2>
 
 <div align="center">
   <img src="https://media.giphy.com/media/7VbK6cFXvSgBpFMnfC/giphy.gif" width="300" height="350"/>
