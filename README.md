@@ -30,4 +30,6 @@ Hi I am Nayla Mansoori pursuing Bachelor's of Engineering in Computer Science <i
 - 🌐: I enjoy exploring various articles.
 - ⚡: While I have some free time I solve problems on Hackkerank.
 - 📫: Reach me: [![Linkedin Badge](https://img.shields.io/badge/LindkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayla-mansoori-327665220)
+- 📧: [![Gmail badge](https://img.shields.io/badge/Gmail-black?style=flat&logo=Gmail&logoColor=white)](nayla.mansoori5@gmail.com)
+
 
