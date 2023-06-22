@@ -14,5 +14,5 @@
 
 <h1>
   Hello !!
-  <img src="https://media.giphy.com/media/CoLgHLFwzPMHgWcdMf/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/CoLgHLFwzPMHgWcdMf/giphy.gif" width="50px"/>
 </h1>
